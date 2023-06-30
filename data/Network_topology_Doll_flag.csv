@@ -1,0 +1,4 @@
+ID,ID_next,length,area,lake,endorheic,S_0,S_max,Coeff,power,lake_type,slope
+int,int,f8,f8,int,int,f8,f8,f8,f8,int,float
+-,-,m,m**2,-,-,m**3,m**3,m**3 s**-1,-,-,-
+-1,-1,-9999,-9999,-1,-1,-9999,-9999,-9999,-9999,-1,-9999

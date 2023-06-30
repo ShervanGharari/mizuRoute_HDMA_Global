@@ -1,0 +1,25 @@
+HDMA network does not reach coast in some river mouth, making it difficult detect right corresponding reach ID 
+Manual changes in corresponding HDMA reach ID 
+
+river: variable   old    -> new
+---------------------------------------
+Ob: seg_id       1074464 -> 1073084 
+    area [km2]    710.60 -> 2877918.67 
+
+Yukon: 
+    seg_id       3030092 -> 3045177
+    area [km2]   1975.97 -> 819579.82 
+
+
+MERIT network
+
+point: 95061 not intersected by any hrus
+point: 9369 not intersected by any hrus
+point: 9725 not intersected by any hrus
+point: 31585 not intersected by any hrus
+point: 60321 not intersected by any hrus
+point: 60313 not intersected by any hrus
+point: 60319 not intersected by any hrus
+point: 60317 not intersected by any hrus
+
+
