@@ -171,7 +171,7 @@ plt.tight_layout()
 if not os.path.isdir('../figure'):
     os.makedirs('../figure')
 
-plt.savefig('../figure/figure_2.png',dpi = 200)
+plt.savefig('../figure/figure_2.png',dpi = 400)
 #plt.savefig('../figure/figure_2.pdf')
 
 
