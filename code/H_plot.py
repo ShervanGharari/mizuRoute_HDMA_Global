@@ -96,7 +96,7 @@ cbar = plt.colorbar(sm,\
 #cbar.ax.set_yticklabels(fontsize = 30)
 cbar.ax.yaxis.set_ticks_position('left')
 #cbar.ax.set_title(u'Δ Q', fontsize = 40)
-cbar.ax.set_title(u'Δ Q\n(m³/s)', fontsize=40)
+cbar.ax.set_title(u'Δ Q\n[m³/s]\n ', fontsize=40)
 
 # add basemap
 # ctx.add_basemap(ax,
